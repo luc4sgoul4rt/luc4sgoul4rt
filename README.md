@@ -1,4 +1,4 @@
-### Olá, sou Lucas Goulart 
+### Olá, sou Lucas 🦖
 
 Desenvolvedor na Globo, construindo aplicações internas em
 Power Platform e SharePoint para gestão financeira de terceiros, 
