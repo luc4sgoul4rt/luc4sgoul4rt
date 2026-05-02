@@ -14,4 +14,3 @@ JavaScript · HTML · CSS · Figma
 **Em aprendizado:** React · Node.js · Python · SQL
 
 [LinkedIn](https://linkedin.com/in/lucasgoulart) ·
-lgoulart207@gmail.com
