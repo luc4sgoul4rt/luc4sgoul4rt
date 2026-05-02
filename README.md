@@ -1,16 +1,17 @@
-## Hi there 👋
+### Olá, sou Lucas Goulart 
 
-<!--
-**luc4sgoul4rt/luc4sgoul4rt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor na Globo, construindo aplicações internas em
+Power Platform e SharePoint para gestão de terceiros, requisições
+de compra e fornecedores.
 
-Here are some ideas to get you started:
+Em transição para desenvolvimento web. Cursando Front-End React e
+Back-End Node.js (Alura) e Bacharelado em Ciência da Computação
+(Descomplica, 2026–2029).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack atual:** Power Apps · Power Automate · SharePoint ·
+JavaScript · HTML · CSS · Figma
+
+**Em aprendizado:** React · Node.js · Python · SQL
+
+[LinkedIn](https://linkedin.com/in/lucasgoulart) ·
+lgoulart207@gmail.com
